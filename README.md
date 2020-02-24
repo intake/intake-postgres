@@ -5,6 +5,9 @@
 
 PostgreSQL Plugin for [Intake](https://github.com/ContinuumIO/intake)
 
+
+**This repo depends upon `postgresdapter`, which is currently unmaintained. We therefore suggest you use `intake-sql` instead.**
+
 ## User Installation
 
 *Note: the following command does not work yet, and the developer installation is recommended.*
